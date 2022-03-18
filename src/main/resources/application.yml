@@ -19,10 +19,10 @@ spring:
         format-sql: true
         
 swagger:
-   path_api_scan: com.bancodigital
+   path_api_scan: com.bootcamp
    info:
-      title: Banco Digital API
-      description: API do Banco Digital
+      title: Bootcamp API
+      description: API de gerenciamento de Bootcamps
       version: '@project.version@'
       termsOfServiceUrl: Terms of Service
       contact: 
